@@ -1,0 +1,14 @@
+# Base de datos local
+*.db
+*.sqlite
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales o dependencias locales
+venv/
+.env
+
+# Streamlit
+.streamlit/
